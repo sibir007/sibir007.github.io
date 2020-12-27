@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fe32ed8-f315-4e36-8d29-61de82aa33e7" name="Default Changelist" comment="Добавил .idea in .gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_site/img/proj_img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_site/img/proj_img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_site/img/proj_img3.png" beforeDir="false" />
+    <list default="true" id="6fe32ed8-f315-4e36-8d29-61de82aa33e7" name="Default Changelist" comment="Добавил картинки машин в карусель">
+      <change beforePath="$PROJECT_DIR$/tests/bootstrap_site/img/car1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bootstrap_site/img/car2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bootstrap_site/img/car3.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609059440849</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Добавил картинки машин в карусель">
+      <created>1609060179598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609060179598</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,11 +95,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавил bootstrap" />
     <MESSAGE value="Добавил bootstrap_site в title" />
     <MESSAGE value="Добавил .idea in .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил .idea in .gitignore" />
+    <MESSAGE value="Добавил картинки машин в карусель" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил картинки машин в карусель" />
   </component>
 </project>
