@@ -1,6 +1,12 @@
 # Сибиряков Дмитрий
 
 **********
+<!-- | photo | contacts | -->
+<!-- | ![my photo](425302322.jpeg) | my contacts <br> my 2 contacts | -->
+| <img src="./425302322.jpeg" width="240em"> | my contacts <br> my 2 contacts |
+| --- | --- |
+
+
 
 ## Общие данные
 
